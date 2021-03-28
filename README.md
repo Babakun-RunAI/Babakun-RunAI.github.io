@@ -9,4 +9,4 @@
 </p>
 
 <p  align=center>Try our game: <a href="https://play.google.com/store/apps/details?id=com.Babakun.RunAI">Google Play</a></p>
-<p  align=center>Our website: <a href="Babakun-RunAI.github.io">Babakun-RunAI.github.io</a></p>
+<p  align=center>Our website: <a href="babakun-runai.github.io">Babakun-RunAI.github.io</a></p>
